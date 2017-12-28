@@ -32,7 +32,7 @@
                     ################ LES ECOUTEURS D EVENEMENTS ###########################
 
                         Pour attacher un évènement à un élément ou autrement dit, pour déclarer
-                        un ecouteur d'evenement qui se chargerad e declencher une fonction, je 
+                        un ecouteur d'evenement qui se chargera de declencher une fonction, je 
                         vais utiliser la syntaxe suivante :
 
                    ************************************************************** */
